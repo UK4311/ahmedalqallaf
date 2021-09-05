@@ -17,8 +17,8 @@ h1 {
      transition: all 0.3s linear;
      font-family: 'Montserrat', sans-serif;
  }
-.btn-outline1:hover,
-.btn-outline1:focus{
+.btn-outline:hover,
+.btn-outline:focus{
     background: #86888A;
     color: black;
 }
